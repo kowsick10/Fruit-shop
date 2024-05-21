@@ -1,1 +1,3 @@
 # Fruit-shop
+HTML 
+CSS
